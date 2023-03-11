@@ -39,7 +39,18 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-## Support
+## Support -- some nest command cli
+
+```bash
+# create a module of tasks
+$ nest g module tasks
+
+# create a controller in tasks
+$ nest g controller tasks
+
+# create a service in tasks
+$ nest g service tasks
+```
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
